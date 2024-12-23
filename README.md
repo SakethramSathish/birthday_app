@@ -1,2 +1,16 @@
 # birthday_app
-A Flutter-based mobile application to celebrate your loved one's birthday with a personalized countdown, music, photo gallery, and a birthday card. This app is designed specifically for an unforgettable celebration experience!
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
